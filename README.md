@@ -29,7 +29,7 @@ Sistema conversacional para busca de veículos utilizando **Model Context Protoc
 
 ### 2. **Clone e Dependências**
 ```bash
-git clone <seu-repositorio>
+git clone https://github.com/GusGBalbino/mcp-challenge.git
 cd cs2_challenge
 pip install -r requirements.txt
 ```
@@ -76,7 +76,7 @@ Execute o SQL no Supabase:
 
 ```
 cs2_challenge/
-├── agente_virtual.py      # Agente conversacional principal
+├── agent.py               # Agente conversacional principal
 ├── mcp_server.py          # Servidor MCP com ferramentas
 ├── database.py            # Conexão e consultas Supabase
 ├── schema.py              # Modelo de dados dos veículos
