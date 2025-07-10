@@ -8,7 +8,7 @@ import json
 import pytest
 import os
 from unittest.mock import Mock, patch
-from agente_virtual import VehicleAgent
+from agent import VehicleAgent
 from dotenv import load_dotenv
 
 load_dotenv()
