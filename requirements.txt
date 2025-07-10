@@ -1,0 +1,9 @@
+fastmcp
+supabase
+python-dotenv
+langchain
+langchain-google-genai
+google-generativeai
+pytest
+pytest-asyncio
+pydantic
